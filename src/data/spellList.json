@@ -1,0 +1,26 @@
+[
+	{
+		"name": "Fire",
+		"tier": 0,
+		"cost": 1,
+		"damage": 2
+	},
+	{
+		"name": "Water",
+		"tier": 0,
+		"cost": 1,
+		"damage": 1
+	},
+	{
+		"name": "Earth",
+		"tier": 0,
+		"cost": 1,
+		"damage": 1
+	},
+	{
+		"name": "Wind",
+		"tier": 0,
+		"cost": 1,
+		"damage": 1
+	}
+]

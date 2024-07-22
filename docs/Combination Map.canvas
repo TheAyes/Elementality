@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"8988c32310b3db25","type":"file","file":"docs/Elements/Fire.md","x":-320,"y":-540,"width":400,"height":400,"color":"1"},
+		{"id":"df7ea9d72aefd906","type":"file","file":"docs/Elements/Earth.md","x":180,"y":-540,"width":400,"height":400,"color":"4"},
+		{"id":"ab3be635a408ce41","type":"file","file":"docs/Elements/Wind.md","x":180,"y":-100,"width":400,"height":400,"color":"#a8d7f5"},
+		{"id":"4859487d8ab31dff","type":"file","file":"docs/Elements/Water.md","x":-320,"y":-100,"width":400,"height":400,"color":"#3863ff"}
+	],
+	"edges":[]
+}
